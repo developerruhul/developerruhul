@@ -18,7 +18,7 @@ Currently available — open to full-time, contract, and part-time work
 
 Full-stack engineer with 6+ years building production web apps and developer tools.
 
-Most recently at **UJET**, a Silicon Valley company, working on the email, voice, and chat experience for their contact center platform — helped migrate the email adapter from AngularJS to React/TypeScript, and became my team's E2E testing ambassador. Before that, I was an early engineer at **Automatio**, building their Chrome extension and scraping engine, then later led full-stack development on **Moonly**, an NFT analytics dashboard, from concept to launch.
+Most recently at **UJET**, working on the email, voice, and chat experience for their contact center platform — helped migrate the email adapter from AngularJS to React/TypeScript, and became my team's E2E testing ambassador. Before that, I was an early engineer at **Automatio**, building their Chrome extension and scraping engine, then later led full-stack development on **Moonly**, an NFT analytics dashboard, from concept to launch.
 
 ### Stack
 
@@ -35,7 +35,7 @@ Also: Chrome extension / browser automation, AI & LLM API integrations, E2E test
 
 ### Recent work
 
-- **UJET** — Frontend Engineer (2024–2026) — email/voice/chat experience, AngularJS→React/TS migration
+- **UJET** (Silicon Valley) — Frontend Engineer (2024–2026) — email/voice/chat experience, AngularJS→React/TS migration
 - **Moonly** — Lead Developer, Full-Stack (2022) — NFT analytics dashboard, built end-to-end
 - **Automatio** — Fullstack Web Developer (2019–2020) — Chrome extension + scraping engine
 
